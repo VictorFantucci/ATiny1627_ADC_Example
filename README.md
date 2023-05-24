@@ -1,4 +1,4 @@
-# ATiny1627 ADC Example Description
+# ADC Example using tinyAVR® 2 Family
 Project developed using Atmel Studio 7 to show how to use the ADC to measure voltage.
 
 ## Related Documentation
